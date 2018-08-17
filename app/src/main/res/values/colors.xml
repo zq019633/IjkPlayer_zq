@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+
+    <color name="seek_progress">#fff85959</color>
+    <color name="seek_secondary_progress">#ffe0e0e0</color>
+    <color name="translucent">#aa000000</color>
+
+</resources>
